@@ -1,8 +1,7 @@
 ### Hi, I'm Alisha!👋
 
 
-I'm a developer who enjoys working on exciting projects and learning new things.  
-Here are some of my stats:
+I'm a developer who enjoys working on exciting projects and learning new things. 
 
 ## 💻 Tech Stack
 
